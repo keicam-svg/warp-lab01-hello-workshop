@@ -10,3 +10,7 @@ dotnet run
 ## Kontakt
 Autor: Student
 Zespół: Warsztat Programisty
+
+## Nagłówek
+to jest nagłówek
+``npm start
